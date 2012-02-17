@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin derived from &quot;tx_m3openlayers_pibase&quot;</description>
+	</meta>
+	<data type="array">
+		
+		<languageKey index="default" type="array">
+			<label index="flexform.width">Width of the map</label>
+			<label index="flexform.height">Height of the map</label>
+			<label index="flexform.border">Border around the map</label>
+			<label index="flexform.border_color">Border color</label>
+			<label index="flexform.popups">Open map popups on click</label>
+			
+			<label index="flexform.controls">Available controls</label>
+			<label index="flexform.controls.Navigation">Mouse navigation</label>
+			<label index="flexform.controls.PanZoomBar">Pan and zoom bar</label>
+			<label index="flexform.controls.PanZoom">Pan and zoom bar (minimal)</label>
+			<label index="flexform.controls.OverviewMap">Overview map</label>
+			<label index="flexform.controls.LayerSwitcher">Layer switcher</label>
+			
+			<label index="flexform.layers">Available layers</label>
+			
+			<label index="flexform.layers.Google_Streets">Google Maps Streets</label>
+			<label index="flexform.layers.Google_Sat">Google Maps Satellite</label>
+			<label index="flexform.layers.Google_Hybrid">Google Maps Hybrid</label>
+			<label index="flexform.layers.Google_Physical">Google Maps Physical</label>
+			
+			<label index="flexform.layers.Bing_Streets">Bing Maps Roads</label>
+			<label index="flexform.layers.Bing_Sat">Bing Maps Aerial</label>
+			<label index="flexform.layers.Bing_Hybrid">Bing Maps Hybrid</label>
+			<label index="flexform.layers.Bing_Physical">Bing Maps Shaded</label>
+			
+			<label index="flexform.layers.Yahoo_Streets">Yahoo Maps Streets</label>
+			<label index="flexform.layers.Yahoo_Sat">Yahoo Maps Satellite</label>
+			<label index="flexform.layers.Yahoo_Hybrid">Yahoo Maps Hybrid</label>
+			
+			<label index="flexform.layers.OSM_Mapnik">OpenStreetMap (Mapnik)</label>
+			<label index="flexform.layers.OSM_Osmarender">OpenStreetMap (Tiles@Home)</label>
+			<label index="flexform.layers.OSM_CycleMap">OpenStreetMap (CycleMap)</label>
+		</languageKey>
+		
+		<languageKey index="de" type="array">
+			<label index="flexform.width">Breite der Karte</label>
+			<label index="flexform.height">Höhe der Karte</label>
+			<label index="flexform.border">Rahmen um die Karte</label>
+			<label index="flexform.border_color">Rahmenfarbe</label>
+			<label index="flexform.popups">Öffne Karten-Popups beim Klicken</label>
+			
+			<label index="flexform.controls">Verfügbare Steuerelemente</label>
+			<label index="flexform.controls.Navigation">Mausnavigation</label>
+			<label index="flexform.controls.PanZoomBar">Navigations- und Zoomleiste</label>
+			<label index="flexform.controls.PanZoom">Navigations- und Zoomleiste (minimal)</label>
+			<label index="flexform.controls.OverviewMap">Übersichtskarte</label>
+			<label index="flexform.controls.LayerSwitcher">Ebenenverwaltung</label>
+			
+			<label index="flexform.layers">Verfügbare Ebenen</label>
+			
+			<label index="flexform.layers.Google_Streets">Google Maps Straßen</label>
+			<label index="flexform.layers.Google_Sat">Google Maps Satellit</label>
+			<label index="flexform.layers.Google_Hybrid">Google Maps Hybrid</label>
+			<label index="flexform.layers.Google_Physical">Google Maps Gelände</label>
+			
+			<label index="flexform.layers.Bing_Streets">Bing Maps Straßen</label>
+			<label index="flexform.layers.Bing_Sat">Bing Maps Gebiet</label>
+			<label index="flexform.layers.Bing_Hybrid">Bing Maps Hybrid</label>
+			<label index="flexform.layers.Bing_Physical">Bing Maps Relief</label>
+			
+			<label index="flexform.layers.Yahoo_Streets">Yahoo Maps Straßen</label>
+			<label index="flexform.layers.Yahoo_Sat">Yahoo Maps Satellit</label>
+			<label index="flexform.layers.Yahoo_Hybrid">Yahoo Maps Hybrid</label>
+			
+			<label index="flexform.layers.OSM_Mapnik">OpenStreetMap (Mapnik)</label>
+			<label index="flexform.layers.OSM_Osmarender">OpenStreetMap (Tiles@Home)</label>
+			<label index="flexform.layers.OSM_CycleMap">OpenStreetMap (Fahrradkarte)</label>
+		</languageKey>
+		
+	</data>
+</T3locallang>
