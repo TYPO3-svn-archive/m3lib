@@ -1,5 +1,5 @@
 if (window.OpenLayers && OpenLayers.Layer.OSM) {
-	OpenLayers.Layer.OSM.prototype.attribution = 'Kartendaten &copy <a href="http://www.openstreetmap.org" target="_blank">OpenStreetMap</a> und Mitwirkende, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>';
+	OpenLayers.Layer.OSM.prototype.attribution = 'Kartendaten &copy <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> und Mitwirkende';
 	OpenLayers.Layer.OSM.Mapnik.prototype.attribution = OpenLayers.Layer.OSM.prototype.attribution;
 }
 
